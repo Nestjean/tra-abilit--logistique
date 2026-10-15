@@ -1,2 +1,5 @@
 # Variables d'environnement
 .env 
+**/node_modules/
+frontend/dist/
+*.log 
